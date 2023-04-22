@@ -13,5 +13,6 @@
 
  [![My](https://travis-ci.com/sh1valinc/projectname.svg?branch=master)]()
  
-<!-- Place this tag where you want the button to render. -->
-<github-button href="sh1val.github.io" data-icon="octicon-package" aria-label="Install this package buttons/github-buttons on GitHub">MY SITE>
+<a href="https://sh1valinc.github.io" target="_blank">
+  <img src="https://radikal.host/i/XaoCNu" alt="The Unlimited" width="180"/>
+</a>
