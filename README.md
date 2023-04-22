@@ -13,5 +13,5 @@
 
  
 <a href="https://sh1valinc.github.io">
-  <img src="https://yapx.ru/album/V7AIU"/>
+  <img src="https://imgur.com/a/Awsnop9"/>
 </a>
