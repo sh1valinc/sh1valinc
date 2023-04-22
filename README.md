@@ -3,3 +3,4 @@
 <h3 align="center">I am studying programming in python and c# to create different programs on Windows and linux</h3>
 
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
