@@ -10,4 +10,4 @@
 
 ![](https://komarev.com/ghpvc/?username=sh1valinc&style=for-the-badge&color=ff69b4)
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sh1val" data-size="large" data-show-count="true" aria-label="Follow @sh1val on GitHub">Follow @sh1val</a>
+<a class="github-button" href="sh1valinc.github.io" data-size="large" data-show-count="true" aria-label="My Site">My Site</a>
