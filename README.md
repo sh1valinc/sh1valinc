@@ -13,5 +13,5 @@
 
  
 <a href="https://sh1valinc.github.io">
-  <img src="https://hostingkartinok.com/show-image.php?id=d839a20f7105f67b2082dfbadca87574" alt="The Unlimited" width="180"/>
+  <img src="https://hostingkartinok.com/show-image.php?id=d839a20f7105f67b2082dfbadca87574" width="50"/>
 </a>
