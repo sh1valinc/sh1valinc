@@ -11,4 +11,4 @@
 ![](https://komarev.com/ghpvc/?username=sh1valinc&style=for-the-badge&color=ff69b4)
 <!-- Place this tag where you want the button to render. -->
 
- [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://sh1valinc.github.io)
+ [![My](https://travis-ci.com/username/projectname.svg?branch=master)](https://sh1valinc.github.io)
