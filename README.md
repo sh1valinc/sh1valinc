@@ -13,5 +13,5 @@
 
  
 <a href="https://sh1valinc.github.io">
-  <img src="https://hkar.ru/17tTZ" width="50"/>
+  <img src="https://hkar.ru/17tU2" width="50"/>
 </a>
