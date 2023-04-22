@@ -14,5 +14,5 @@
  [![My](https://travis-ci.com/sh1valinc/projectname.svg?branch=master)]()
  
 <a href="https://sh1valinc.github.io" target="_blank">
-  <img src="https://radikal.host/i/XaoCNu" alt="The Unlimited" width="180"/>
+  <img src="https://www.flaticon.com/ru/free-icon/web_3288792?term=%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+%D1%81%D0%B0%D0%B9%D1%82&page=1&position=5&origin=tag&related_id=3288792)" alt="The Unlimited" width="180"/>
 </a>
