@@ -11,4 +11,4 @@
 ![](https://komarev.com/ghpvc/?username=sh1valinc&style=for-the-badge&color=ff69b4)
 <!-- Place this tag where you want the button to render. -->
 
-  <p><a href="https://sh1valinc.github.io"><img src="https://imgbb.su/image/z4FWnR" width="50" 
+  <a href="https://sh1valinc.github.io"><img src="https://imgbb.su/image/z4FWnR" width="80" 
