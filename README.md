@@ -5,7 +5,7 @@
 <h3 align="center">I am studying programming in python and c# to create different programs on Windows and linux</h3>
  
  
-<a href="https://sh1valinc.github.io/" target="_blank">My SITE</a> 
+<a align="center" href="https://sh1valinc.github.io/" target="_blank">My SITE</a> 
 
 
 
