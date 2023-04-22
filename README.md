@@ -11,8 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=sh1valinc&style=for-the-badge&color=ff69b4)
 <!-- Place this tag where you want the button to render. -->
 
- [![My](https://travis-ci.com/sh1valinc/projectname.svg?branch=master)]()
  
-<a href="https://sh1valinc.github.io" target="_blank">
+<a href="https://sh1valinc.github.io">
   <img src="https://hostingkartinok.com/show-image.php?id=d839a20f7105f67b2082dfbadca87574" alt="The Unlimited" width="180"/>
 </a>
