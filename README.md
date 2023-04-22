@@ -3,5 +3,9 @@
 <h3 align="center">I am studying programming in python and c# to create different programs on Windows and linux</h3>
 ![](https://komarev.com/ghpvc/?username=sh1valinc)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
