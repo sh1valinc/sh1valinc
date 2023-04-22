@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://coffiko.github.io/" target="_blank">sh1val</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://sh1valinc.github.io"><p style="text-align:center">My site</a>
+<a href="https://sh1valinc.github.io"><p> style="text-align:center">My site</a>
 <h1 align="center">Easy Desing
 <h3 align="center">I am studying programming in python and c# to create different programs on Windows and linux</h3>
 
