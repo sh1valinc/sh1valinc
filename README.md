@@ -11,4 +11,4 @@
 ![](https://komarev.com/ghpvc/?username=sh1valinc&style=for-the-badge&color=ff69b4)
 <!-- Place this tag where you want the button to render. -->
 
- <p><a href="https://sh1valinc.github.io"><img src="https://hostingkartinok.com/show-image.php?id=5c88cfa071a0c8ed7d98eb9dfddaaad3' title='photohost'><img style="width:100%" src='https://s1.hostingkartinok.com/uploads/images/2023/04/5c88cfa071a0c8ed7d98eb9dfddaaad3.gif' alt='Yes'  /></a>" width="80" 
+ [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://sh1valinc.github.io)
