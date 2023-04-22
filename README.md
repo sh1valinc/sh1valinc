@@ -7,4 +7,4 @@
 <img src="https://im.wampi.ru/2023/04/22/BEZ-IMENI-2.gif" alt="BEZ-IMENI-2.gif" border="0">
 
 
-![](https://komarev.com/ghpvc/?username=sh1valinc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sh1valinc&style=for-the-badge&color=ff69b4)
